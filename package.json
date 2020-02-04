@@ -1,0 +1,32 @@
+{
+  "name": "kaloraat",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "firebase": "^4.6.1",
+    "i": "^0.3.6",
+    "lodash": "^4.17.4",
+    "npm": "^5.5.1",
+    "react": "^16.0.0",
+    "react-bootstrap": "^0.31.5",
+    "react-dom": "^16.0.0",
+    "react-file-input": "429365799",
+    "react-fileupload": "^2.4.0",
+    "react-quill": "^1.2.2",
+    "react-redux": "^5.0.6",
+    "react-render-html": "^0.6.0",
+    "react-router-dom": "^4.1.2",
+    "react-scripts": "1.0.17",
+    "redux": "^3.7.2",
+    "redux-devtools-extension": "^2.13.2",
+    "redux-form": "^7.1.2",
+    "redux-thunk": "^2.2.0",
+    "slug": "^0.9.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
